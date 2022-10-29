@@ -1,7 +1,3 @@
-package Model;
-
-
-
 public class Daily extends Appointment {
     private int day;
     private int month;

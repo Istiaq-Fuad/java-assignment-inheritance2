@@ -1,6 +1,3 @@
-package Model;
-
-
 public class Onetime extends Appointment {
     private int day;
     private int month;

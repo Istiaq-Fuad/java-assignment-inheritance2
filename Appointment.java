@@ -1,6 +1,3 @@
-package Model;
-
-
 import java.time.LocalDate;
 
 public class Appointment {
@@ -21,5 +18,4 @@ public class Appointment {
         }
         return false;
     }
-
 }
